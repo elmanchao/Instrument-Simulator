@@ -23,6 +23,7 @@ Node
 ```bash
 $ git clone https://github.com/elmanchao/Muzik
 $ cd Muzik
+$ npm install
 $ npm run build-osx
 ```
 
