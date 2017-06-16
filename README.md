@@ -1,6 +1,6 @@
 # Muzik
 
-<img src="./keyboard.svg" width="100%" height="256">
+![Keyboard](./keyboard.svg)
 
 ----
 
