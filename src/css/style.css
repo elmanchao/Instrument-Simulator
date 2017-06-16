@@ -18,7 +18,7 @@ body,html {
 }
 
 .key {
-  border: .4rem solid rgb(52, 215, 38);
+  border: .4rem solid rgb(218, 101, 26);
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
@@ -27,7 +27,8 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  /*background: rgba(0,0,0,0.4);*/
+  background: white;
   text-shadow: 0 0 .5rem black;
 }
 
@@ -39,6 +40,7 @@ body,html {
 
 kbd {
   display: block;
+  color: black;
   font-size: 4rem;
 }
 

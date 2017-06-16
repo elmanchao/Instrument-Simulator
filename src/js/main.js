@@ -9,7 +9,6 @@ window.onload = function() {
         const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
         if (!audio) return;
         if (audio.paused) {
-            audio.currentTime = 0;
             audio.play();
             key.classList.add('playing');
         }
@@ -19,6 +18,7 @@ window.onload = function() {
         const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
         if (!audio) return;
         audio.pause();
+        audio.currentTime = 0;
     }
 
     function removeTransition(e) {
