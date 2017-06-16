@@ -1,0 +1,24 @@
+{
+  "name": "muzik",
+  "version": "1.0.0",
+  "description": "An interactive keyboard instrument",
+  "main": "window.js",
+  "scripts": {
+    "start": "electron ./src",
+    "build-osx": "electron-packager ./src --platform darwin --icon ./assets/logo.icns --out ./dist --overwrite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmanchao/Muzik.git"
+  },
+  "author": "Elman Chao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmanchao/Muzik/issues"
+  },
+  "homepage": "https://github.com/elmanchao/Muzik#readme",
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "electron-packager": "^8.7.1"
+  }
+}
