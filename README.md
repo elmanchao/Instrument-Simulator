@@ -1,2 +1,5 @@
-# Instrument-Simulator
-An interactive keyboard instrument
+# Muzik
+
+## Authors
+Elman
+Sufien
