@@ -1,5 +1,6 @@
 # Muzik
 
 ## Authors
-Elman
-Sufien
+Elman Chao
+
+Sufien Tout
