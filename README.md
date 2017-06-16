@@ -1,6 +1,6 @@
 # Muzik
 
-![Keyboard](./keyboard.svg)
+![Keyboard](./assets/logo.png)
 
 ----
 
